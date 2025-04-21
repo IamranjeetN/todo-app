@@ -16,7 +16,6 @@ A simple and stylish To-Do List application built with **React**, **Vite**, and 
 - Tailwind CSS (Styling)
 
 ## 📸 Preview
-
 ![Screenshot](screenshot.png) <!-- optional: add a screenshot of your app -->
 
 ## 🛠️ Installation & Run Locally
@@ -33,3 +32,4 @@ npm install
 
 # Run the app
 npm run dev
+Open in browser at http://localhost:5173/
